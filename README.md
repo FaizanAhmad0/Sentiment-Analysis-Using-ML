@@ -4,10 +4,10 @@ This project covers the sentiment analysis on images and text data using machine
 The data I used was from around 6000 images and a csv file containing the relevant information.
 # Steps
 Preprocessing
-Sentiments extraction using Vader Sentiment
-Feature extraction/encodings
-Train-Test-Split
-ML Models
+Sentiments extraction using Vader Sentiment.
+Feature extraction/encodings.
+Train-Test-Split.
+ML Models.
 
 # Software
 Jupyter Notebook
